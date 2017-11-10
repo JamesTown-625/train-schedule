@@ -1,0 +1,33 @@
+body {
+	background-image: url("../images/subwayTile.PNG") ;
+
+}
+img {
+	height: 90px;
+	width: 90px;
+}
+
+.circleImg {
+	margin-left: 200px;
+}
+.jumbotron {
+	background-color: black;
+	color: white;
+	font-size: 64px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 25px;
+}
+
+.panel-title {
+	background-color: black;
+}
+
+.panel-primary>.panel-heading {
+	background-color: black;
+	border-color: black;
+}
+
+.btn-primary {
+	background-color: black;
+	border-color: black;
+}
